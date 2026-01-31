@@ -1,4 +1,4 @@
-# 🛠️ Formulario-Button-Creator
+# 🛠️ Formulário-Button-Creator
 
 Uma ferramenta bacana para **criar botões personalizados que interagem com formulários de forma simples e divertida** — ideal para desenvolvedores que querem melhorar a experiência de uso dos seus formulários web!
 
@@ -16,10 +16,10 @@ O **Formulario-Button-Creator** é um pequeno projeto que gera botões dinâmico
 
 ✨ Exemplo de funcionalidades que você pode adicionar / mostrar aqui:
 
-* 🔹 Cria botões interativos que podem enviar, resetar ou modificar campos de formulários
-* 🔹 Fácil de customizar com CSS e JavaScript
-* 🔹 Pode ser usado diretamente em páginas estáticas ou integradas em projetos maiores
-* 🔹 Código limpo e simples para aprender e evoluir
+* 🔹 Cria botões interativos que podem enviar, resetar ou modificar campos de formulários.
+* 🔹 Fácil de customizar com CSS e JavaScript.
+* 🔹 Pode ser usado diretamente em páginas estáticas ou integradas em projetos maiores.
+* 🔹 Código limpo e simples para aprender e evoluir.
 
 ---
 
